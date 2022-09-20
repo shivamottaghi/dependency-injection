@@ -21,7 +21,7 @@ of that we have to change a class if its dependency changed, we use dependency i
 DI is also a design pattern to implement IoC (Inversion of Control) to try to make a class independent of its dependencies, it helps to
 follow SOLID's dependency inversion , SOLID's single responsibility.
 
-## How dependencies where inject in this project
+## How dependencies were injected in this project
 
 There are three classes in transformers folder:
 1. The class which capitalize every other letter in a string , implements transform interface
